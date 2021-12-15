@@ -16,4 +16,11 @@
   color: white;
   font-weight: bolder;
   font-size: 20px;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #5d9be6;
+  transition: .5s;
+  transform: scale(1.1);
 }
